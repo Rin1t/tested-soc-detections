@@ -1,2 +1,2 @@
 # tested-soc-detections
-Detection rules tested against real attack logs. Siga, Splunk and Microsoft Sentinel / Defender XDR KQL.
+Detection rules tested against real attack logs. Sigma, Splunk and Microsoft Sentinel / Defender XDR KQL.
